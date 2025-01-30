@@ -10,7 +10,7 @@ export default function Footer() {
           height="25px"
           alt=""
           title=""
-          class="img-small"></img>
+          className="img-small"></img>
       </a>
     </footer>
   );
